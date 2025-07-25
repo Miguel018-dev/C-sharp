@@ -1,6 +1,4 @@
 ﻿// Input e Output
-using System.Reflection.Metadata;
-using Microsoft.VisualBasic;
 
 namespace aula4
 {
