@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\migue\\OneDrive\\Documentos\\Estudos\\C-sharp\\aula6\\aula6.csproj": {}
+    "C:\\Users\\migue\\OneDrive\\Documentos\\Estudos\\C-sharp\\aula8\\aula8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\migue\\OneDrive\\Documentos\\Estudos\\C-sharp\\aula6\\aula6.csproj": {
+    "C:\\Users\\migue\\OneDrive\\Documentos\\Estudos\\C-sharp\\aula8\\aula8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\migue\\OneDrive\\Documentos\\Estudos\\C-sharp\\aula6\\aula6.csproj",
-        "projectName": "aula6",
-        "projectPath": "C:\\Users\\migue\\OneDrive\\Documentos\\Estudos\\C-sharp\\aula6\\aula6.csproj",
+        "projectUniqueName": "C:\\Users\\migue\\OneDrive\\Documentos\\Estudos\\C-sharp\\aula8\\aula8.csproj",
+        "projectName": "aula8",
+        "projectPath": "C:\\Users\\migue\\OneDrive\\Documentos\\Estudos\\C-sharp\\aula8\\aula8.csproj",
         "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\migue\\OneDrive\\Documentos\\Estudos\\C-sharp\\aula6\\obj\\",
+        "outputPath": "C:\\Users\\migue\\OneDrive\\Documentos\\Estudos\\C-sharp\\aula8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config"

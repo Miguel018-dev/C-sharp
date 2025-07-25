@@ -1,0 +1,15 @@
+c:\Users\migue\OneDrive\Documentos\Estudos\C-sharp\aula7\bin\Debug\net9.0\aula7.exe
+c:\Users\migue\OneDrive\Documentos\Estudos\C-sharp\aula7\bin\Debug\net9.0\aula7.deps.json
+c:\Users\migue\OneDrive\Documentos\Estudos\C-sharp\aula7\bin\Debug\net9.0\aula7.runtimeconfig.json
+c:\Users\migue\OneDrive\Documentos\Estudos\C-sharp\aula7\bin\Debug\net9.0\aula7.dll
+c:\Users\migue\OneDrive\Documentos\Estudos\C-sharp\aula7\bin\Debug\net9.0\aula7.pdb
+c:\Users\migue\OneDrive\Documentos\Estudos\C-sharp\aula7\obj\Debug\net9.0\aula7.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\migue\OneDrive\Documentos\Estudos\C-sharp\aula7\obj\Debug\net9.0\aula7.AssemblyInfoInputs.cache
+c:\Users\migue\OneDrive\Documentos\Estudos\C-sharp\aula7\obj\Debug\net9.0\aula7.AssemblyInfo.cs
+c:\Users\migue\OneDrive\Documentos\Estudos\C-sharp\aula7\obj\Debug\net9.0\aula7.csproj.CoreCompileInputs.cache
+c:\Users\migue\OneDrive\Documentos\Estudos\C-sharp\aula7\obj\Debug\net9.0\aula7.sourcelink.json
+c:\Users\migue\OneDrive\Documentos\Estudos\C-sharp\aula7\obj\Debug\net9.0\aula7.dll
+c:\Users\migue\OneDrive\Documentos\Estudos\C-sharp\aula7\obj\Debug\net9.0\refint\aula7.dll
+c:\Users\migue\OneDrive\Documentos\Estudos\C-sharp\aula7\obj\Debug\net9.0\aula7.pdb
+c:\Users\migue\OneDrive\Documentos\Estudos\C-sharp\aula7\obj\Debug\net9.0\aula7.genruntimeconfig.cache
+c:\Users\migue\OneDrive\Documentos\Estudos\C-sharp\aula7\obj\Debug\net9.0\ref\aula7.dll
